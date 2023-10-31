@@ -1,1 +1,2 @@
 # weatherapp
+Author - Vishal Bhatt
